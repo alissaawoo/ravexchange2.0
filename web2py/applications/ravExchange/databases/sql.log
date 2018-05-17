@@ -53,3 +53,39 @@ CREATE TABLE "auth_cas"(
     "renew" CHAR(1)
 );
 success!
+timestamp: 2018-05-17T13:41:44.419217
+CREATE TABLE "checklist"(
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "user_email" CHAR(512),
+    "title" CHAR(512),
+    "memo" TEXT,
+    "updated_on" TIMESTAMP,
+    "is_public" CHAR(1)
+);
+success!
+timestamp: 2018-05-17T13:54:09.812263
+CREATE TABLE "person"(
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "name" CHAR(512),
+    "married" CHAR(1),
+    "gender" CHAR(512),
+    "profile" TEXT,
+    "image" CHAR(512)
+);
+success!
+timestamp: 2018-05-17T14:29:14.950726
+CREATE TABLE "listing"(
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+    "title" CHAR(512),
+    "price" DOUBLE,
+    "sold" CHAR(1),
+    "image" CHAR(512),
+    "name" CHAR(512),
+    "user_id" INTEGER REFERENCES "auth_user" ("id") ON DELETE CASCADE  ,
+    "phone" CHAR(512),
+    "email" CHAR(512),
+    "votes" INTEGER,
+    "messeged" TEXT,
+    "date_posted" TIMESTAMP
+);
+success!

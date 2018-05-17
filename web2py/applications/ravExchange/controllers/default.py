@@ -57,11 +57,70 @@ def download():
     return response.download(request, db)
 
 
+
+# @auth.requires_login()
+# def add():
+    # #Function to add a listing
+    # grid = SQLFORM(db.checklist)
+    # if grid.process().accepted:
+    #     session.flash = T('added')
+    #     redirect(URL('default', 'posting'))
+    # export_classes = dict(csv=True, json=False, html=False,
+    # tsv=False, xml=False, csv_with_hidden_cols=False,
+    # tsv_with_hidden_cols=False)
+    # return dict(grid=grid)
+
+# @auth.requires_login()
+# def view():
+# 	# Function to view a listing
+#     p = db.listing(request.args(0)) or redirect(URL('default', 'posting'))
+#     grid = SQLFORM(db.listing, record = p, readonly = True)
+#     button = A('return to listings', _class='btn btn-default', _href=URL('default', 'posting'))
+#     export_classes = dict(csv=True, json=False, html=False,
+# 	tsv=False, xml=False, csv_with_hidden_cols=False,
+# 	tsv_with_hidden_cols=False)
+#     return dict(p=p, button = button)
+
+
+# def buy():
+#     #the posting to show the grid
+#     show_all = request.args(0) == 'all'
+#     q = (db.listing) if show_all else (db.listing.sold == False)
+#     export_classes = dict(csv=True, json=False, html=False,
+#          tsv=False, xml=False, csv_with_hidden_cols=False,
+#          tsv_with_hidden_cols=False)
+
 def events():
     return dict(message=T('Welcome to ravExchange!'))
 
 def buy():
     return dict(message=T('Welcome to ravExchange!'))
 
+# def sell():
+#     return dict(message=T('Welcome to ravExchange!'))
+
+
+
 def sell():
-    return dict(message=T('Welcome to ravExchange!'))
+    # Function to add a listing
+    form = SQLFORM(db.listing)
+    if form.accepted:
+        session.flash = T("Checklist added.")
+        redirect(URL('default', 'buy'))
+    elif form.errors:
+        session.flash = T('Please correct the info')
+    return dict(form=form)
+    # form = FORM('Your name:',
+    #           INPUT(_name='name', requires=IS_NOT_EMPTY()),
+    #           INPUT(_type='submit'))
+    # if form.process().accepted:
+    #     session.flash = 'form accepted'
+    #     redirect(URL('buy'))
+    # elif form.errors:
+    #     response.flash = 'form has errors'
+    # else:
+    #     response.flash = 'please fill the form'
+    # return dict(form=form)
+
+def buy():
+    return dict()
