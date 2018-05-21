@@ -1,0 +1,628 @@
+(dp1
+S'output'
+p2
+S"<type 'exceptions.IOError'> [Errno 2] No such file or directory: '/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/static/images/No_image.png'"
+p3
+sS'layer'
+p4
+S'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/controllers/default.py'
+p5
+sS'code'
+p6
+S'<code object <module> at 0x112891ab0, file "/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/controllers/default.py", line 8>'
+p7
+sS'snapshot'
+p8
+(dp9
+S'exception'
+p10
+(dp11
+S'__getslice__'
+p12
+S"<method-wrapper '__getslice__' of exceptions.IOError object>"
+p13
+sS'__str__'
+p14
+S"<method-wrapper '__str__' of exceptions.IOError object>"
+p15
+sS'__reduce__'
+p16
+S'<built-in method __reduce__ of exceptions.IOError object>'
+p17
+sS'__dict__'
+p18
+S'{}'
+p19
+sS'__sizeof__'
+p20
+S'<built-in method __sizeof__ of exceptions.IOError object>'
+p21
+sS'message'
+p22
+S"''"
+p23
+sS'__init__'
+p24
+S"<method-wrapper '__init__' of exceptions.IOError object>"
+p25
+sS'__setattr__'
+p26
+S"<method-wrapper '__setattr__' of exceptions.IOError object>"
+p27
+sS'__reduce_ex__'
+p28
+S'<built-in method __reduce_ex__ of exceptions.IOError object>'
+p29
+sS'__new__'
+p30
+S'<built-in method __new__ of type object>'
+p31
+sS'errno'
+p32
+S'2'
+sS'__format__'
+p33
+S'<built-in method __format__ of exceptions.IOError object>'
+p34
+sS'__class__'
+p35
+S"<type 'exceptions.IOError'>"
+p36
+sS'filename'
+p37
+S"'/Users/Alexander/Documents/UCSC Classes/Spring_2...plications/ravexchange/static/images/No_image.png'"
+p38
+sS'__doc__'
+p39
+S"'I/O operation failed.'"
+p40
+sS'__getitem__'
+p41
+S"<method-wrapper '__getitem__' of exceptions.IOError object>"
+p42
+sS'__setstate__'
+p43
+S'<built-in method __setstate__ of exceptions.IOError object>'
+p44
+sS'__getattribute__'
+p45
+S"<method-wrapper '__getattribute__' of exceptions.IOError object>"
+p46
+sS'args'
+p47
+S"(2, 'No such file or directory')"
+p48
+sS'__subclasshook__'
+p49
+S'<built-in method __subclasshook__ of type object>'
+p50
+sS'__unicode__'
+p51
+S'<built-in method __unicode__ of exceptions.IOError object>'
+p52
+sS'strerror'
+p53
+S"'No such file or directory'"
+p54
+sS'__delattr__'
+p55
+S"<method-wrapper '__delattr__' of exceptions.IOError object>"
+p56
+sS'__repr__'
+p57
+S"<method-wrapper '__repr__' of exceptions.IOError object>"
+p58
+sS'__hash__'
+p59
+S"<method-wrapper '__hash__' of exceptions.IOError object>"
+p60
+ssS'evalue'
+p61
+S"[Errno 2] No such file or directory: '/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/static/images/No_image.png'"
+p62
+sS'request'
+p63
+cgluon.html
+XML_unpickle
+p64
+(S's\\\x86\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">ajax</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">application</td><td style="vertical-align:top;">:</td><td><div>ravexchange</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cid</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">controller</td><td style="vertical-align:top;">:</td><td><div>default</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_admin</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-72a361cc-f932-4a10-9154-0dca0240cb22<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_grade1</td><td style="vertical-align:top;">:</td><td><div>3:3de678c1-ab89-40e1-a380-141202e6d58e<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_ravexchange</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-8e5cd71f-4bbb-43fc-849f-867673825803<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_real</td><td style="vertical-align:top;">:</td><td><div>2:a0889492-0e4d-4e16-bbc7-4791f067114b<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_reference</td><td style="vertical-align:top;">:</td><td><div>3:f1ba566f-23a4-402d-bb7c-d5d8e373350f<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_reference2</td><td style="vertical-align:top;">:</td><td><div>2:653c7545-4458-4d81-962a-e64b189471e4<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_start</td><td style="vertical-align:top;">:</td><td><div>18:7cf9be06-2a60-47d8-b61a-62b80b6fcbf4<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_start_reference</td><td style="vertical-align:top;">:</td><td><div>1:7a8ebe92-62f4-445d-b7df-089ee9d928ba<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_welcome</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-985da026-2eca-4267-9c6f-cefe7d27bc57<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">env</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>1182</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundarykdVvbIBaXuMGevqe</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_ENCODING</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ACCEPT_LANGUAGE</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CACHE_CONTROL</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONNECTION</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_LENGTH</td><td style="vertical-align:top;">:</td><td><div>1182</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_CONTENT_TYPE</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundarykdVvbIBaXuMGevqe</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_COOKIE</td><td style="vertical-align:top;">:</td><td><div>session_id_reference2=&quot;2:653c7545-4458-4d81-962a-e64b189471e4&quot;; session_id_reference=&quot;3:f1ba566f-23a4-402d-bb7c-d5d8e373350f&quot;; session_id_start_reference=&quot;1:7a8ebe92-62f4-445d-b7df-089ee9d928ba&quot;; session_id_admin=127.0.0.1-72a361cc-f932-4a10-9154-0dca0240cb22; session_id_welcome=127.0.0.1-985da026-2eca-4267-9c6f-cefe7d27bc57; session_id_real=&quot;2:a0889492-0e4d-4e16-bbc7-4791f067114b&quot;; session_id_start=&quot;18:7cf9be06-2a60-47d8-b61a-62b80b6fcbf4&quot;; session_id_grade1=&quot;3:3de678c1-ab89-40e1-a380-141202e6d58e&quot;; session_id_ravexchange=127.0.0.1-8e5cd71f-4bbb-43fc-849f-867673825803</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_HOST</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_ORIGIN</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_REFERER</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/ravexchange/default/sell</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_UPGRADE_INSECURE_REQUESTS</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">HTTP_USER_AGENT</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">PATH_INFO</td><td style="vertical-align:top;">:</td><td><div>/ravexchange/default/sell</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">QUERY_STRING</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_ADDR</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REMOTE_PORT</td><td style="vertical-align:top;">:</td><td><div>49617</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">REQUEST_METHOD</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SCRIPT_NAME</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_NAME</td><td style="vertical-align:top;">:</td><td><div>eduroam-169-233-246-121.ucsc.edu</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PORT</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_PROTOCOL</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">SERVER_SOFTWARE</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x10b470908: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;eduroam-169-233-246-121.ucsc.edu&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_length</td><td style="vertical-align:top;">:</td><td><div>1182</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">content_type</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundarykdVvbIBaXuMGevqe</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept</td><td style="vertical-align:top;">:</td><td><div>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_encoding</td><td style="vertical-align:top;">:</td><td><div>gzip, deflate, br</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_accept_language</td><td style="vertical-align:top;">:</td><td><div>en-US,en;q=0.9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cache_control</td><td style="vertical-align:top;">:</td><td><div>max-age=0</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_connection</td><td style="vertical-align:top;">:</td><td><div>keep-alive</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_length</td><td style="vertical-align:top;">:</td><td><div>1182</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_content_type</td><td style="vertical-align:top;">:</td><td><div>multipart/form-data; boundary=----WebKitFormBoundarykdVvbIBaXuMGevqe</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_cookie</td><td style="vertical-align:top;">:</td><td><div>session_id_reference2=&quot;2:653c7545-4458-4d81-962a-e64b189471e4&quot;; session_id_reference=&quot;3:f1ba566f-23a4-402d-bb7c-d5d8e373350f&quot;; session_id_start_reference=&quot;1:7a8ebe92-62f4-445d-b7df-089ee9d928ba&quot;; session_id_admin=127.0.0.1-72a361cc-f932-4a10-9154-0dca0240cb22; session_id_welcome=127.0.0.1-985da026-2eca-4267-9c6f-cefe7d27bc57; session_id_real=&quot;2:a0889492-0e4d-4e16-bbc7-4791f067114b&quot;; session_id_start=&quot;18:7cf9be06-2a60-47d8-b61a-62b80b6fcbf4&quot;; session_id_grade1=&quot;3:3de678c1-ab89-40e1-a380-141202e6d58e&quot;; session_id_ravexchange=127.0.0.1-8e5cd71f-4bbb-43fc-849f-867673825803</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_host</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_origin</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_referer</td><td style="vertical-align:top;">:</td><td><div>http://127.0.0.1:8000/ravexchange/default/sell</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_upgrade_insecure_requests</td><td style="vertical-align:top;">:</td><td><div>1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">http_user_agent</td><td style="vertical-align:top;">:</td><td><div>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>::1</div></td></tr><tr><td><div>eduroam-169-233-246-121.ucsc.edu</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>169.233.246.121</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path_info</td><td style="vertical-align:top;">:</td><td><div>/ravexchange/default/sell</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">query_string</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_addr</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">remote_port</td><td style="vertical-align:top;">:</td><td><div>49617</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_method</td><td style="vertical-align:top;">:</td><td><div>POST</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">request_uri</td><td style="vertical-align:top;">:</td><td><div>/ravexchange/default/sell</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">script_name</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_name</td><td style="vertical-align:top;">:</td><td><div>eduroam-169-233-246-121.ucsc.edu</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_port</td><td style="vertical-align:top;">:</td><td><div>8000</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_protocol</td><td style="vertical-align:top;">:</td><td><div>HTTP/1.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">server_software</td><td style="vertical-align:top;">:</td><td><div>Rocket 1.2.6</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_path</td><td style="vertical-align:top;">:</td><td><div>/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x10a3c61e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x10b42d4c8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x112846b50&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi.version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_errors</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;&lt;stderr&gt;&#x27;, mode &#x27;w&#x27; at 0x10a3c61e0&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_file_wrapper</td><td style="vertical-align:top;">:</td><td><div>&lt;class wsgiref.util.FileWrapper at 0x10b42d4c8&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_input</td><td style="vertical-align:top;">:</td><td><div>&lt;socket._fileobject object at 0x112846b50&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multiprocess</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_multithread</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_run_once</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_url_scheme</td><td style="vertical-align:top;">:</td><td><div>http</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi_version</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>1</div></td></tr><tr><td><div>0</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">extension</td><td style="vertical-align:top;">:</td><td><div>html</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">folder</td><td style="vertical-align:top;">:</td><td><div>/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">function</td><td style="vertical-align:top;">:</td><td><div>sell</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">global_settings</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">app_folders</td><td style="vertical-align:top;">:</td><td><div>set([&#x27;/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/&#x27;])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">applications_parent</td><td style="vertical-align:top;">:</td><td><div>/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_args</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cmd_options</td><td style="vertical-align:top;">:</td><td><div>&lt;Values at 0x10b470908: {&#x27;verbose&#x27;: False, &#x27;ip&#x27;: &#x27;127.0.0.1&#x27;, &#x27;debuglevel&#x27;: 30, &#x27;with_scheduler&#x27;: False, &#x27;shutdown_timeout&#x27;: 5, &#x27;taskbar&#x27;: False, &#x27;with_coverage&#x27;: False, &#x27;pid_filename&#x27;: &#x27;httpserver.pid&#x27;, &#x27;maxthreads&#x27;: None, &#x27;softcron&#x27;: False, &#x27;server_name&#x27;: &#x27;eduroam-169-233-246-121.ucsc.edu&#x27;, &#x27;bpython&#x27;: False, &#x27;nogui&#x27;: False, &#x27;port&#x27;: 8000, &#x27;print_errors&#x27;: False, &#x27;extcron&#x27;: False, &#x27;runcron&#x27;: False, &#x27;run_system_tests&#x27;: False, &#x27;test&#x27;: None, &#x27;folder&#x27;: &#x27;/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py&#x27;, &#x27;config&#x27;: &#x27;&#x27;, &#x27;minthreads&#x27;: None, &#x27;shell&#x27;: None, &#x27;run&#x27;: &#x27;&#x27;, &#x27;log_filename&#x27;: &#x27;httpserver.log&#x27;, &#x27;profiler_dir&#x27;: None, &#x27;args&#x27;: [&#x27;&#x27;], &#x27;socket_timeout&#x27;: 5, &#x27;ssl_ca_certificate&#x27;: None, &#x27;scheduler&#x27;: None, &#x27;interfaces&#x27;: None, &#x27;ssl_private_key&#x27;: &#x27;&#x27;, &#x27;gae&#x27;: None, &#x27;password&#x27;: &#x27;******&#x27;, &#x27;request_queue_size&#x27;: 5, &#x27;ssl_certificate&#x27;: &#x27;&#x27;, &#x27;cronjob&#x27;: False, &#x27;numthreads&#x27;: None, &#x27;quiet&#x27;: False, &#x27;import_models&#x27;: False, &#x27;timeout&#x27;: 10, &#x27;plain&#x27;: False, &#x27;nobanner&#x27;: False}&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">db_sessions</td><td style="vertical-align:top;">:</td><td><div>set([])</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">debugging</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">gluon_parent</td><td style="vertical-align:top;">:</td><td><div>/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_jython</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_py2</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_pypy</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_source</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">local_hosts</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>::1</div></td></tr><tr><td><div>eduroam-169-233-246-121.ucsc.edu</div></td></tr><tr><td><div>::ffff:127.0.0.1</div></td></tr><tr><td><div>127.0.0.1</div></td></tr><tr><td><div>169.233.246.121</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">web2py_version</td><td style="vertical-align:top;">:</td><td><div>2.16.1-stable+timestamp.2017.11.14.05.54.25</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_https</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_local</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_restful</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_scheduler</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">is_shell</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">now</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2018, 5, 20, 18, 8, 38, 779413)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_args</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">raw_extension</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">url</td><td style="vertical-align:top;">:</td><td><div>/ravexchange/default/sell</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">utcnow</td><td style="vertical-align:top;">:</td><td><div>datetime.datetime(2018, 5, 21, 1, 8, 38, 779420)</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">wsgi</td><td style="vertical-align:top;">:</td><td><div>&lt;gluon.main.LazyWSGI object at 0x11299bdd0&gt;</div></td></tr></table></div>'
+tRp65
+sS'frames'
+p66
+(lp67
+(dp68
+S'file'
+p69
+S'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/restricted.py'
+p70
+sS'dump'
+p71
+(dp72
+S'environment'
+p73
+S"{'A': <class 'gluon.html.A'>, 'ANY_OF': <class 'gluon.validators.ANY_OF'>, 'ASSIGNJS': <function ASSIGNJS>, 'AppConfig': <function AppConfig>, 'Auth': <class 'gluon.tools.Auth'>, 'B': <class 'gluon.html.B'>, 'BEAUTIFY': <class 'gluon.html.BEAUTIFY'>, 'BODY': <class 'gluon.html.BODY'>, 'BR': <class 'gluon.html.BR'>, 'BUTTON': <class 'gluon.html.BUTTON'>, ...}"
+p74
+sS'ccode'
+p75
+S'<code object <module> at 0x112891ab0, file "/Use...ions/ravexchange/controllers/default.py", line 8>'
+p76
+ssS'lnum'
+p77
+I219
+sS'lines'
+p78
+(dp79
+I214
+S'    if environment is None:'
+p80
+sI215
+S'        environment = {}'
+p81
+sI216
+S"    environment['__file__'] = layer"
+p82
+sI217
+S"    environment['__name__'] = '__restricted__'"
+p83
+sI218
+S'    try:'
+p84
+sI219
+S'        exec(ccode, environment)'
+p85
+sI220
+S'    except HTTP:'
+p86
+sI221
+S'        raise'
+p87
+sI222
+S'    except RestrictedError:'
+p88
+sI223
+S'        # do not encapsulate (obfuscate) the original RestrictedError'
+p89
+ssS'call'
+p90
+S'(ccode=<code object <module> at 0x112891ab0, file "/Use...ions/ravexchange/controllers/default.py", line 8>, environment={\'A\': <class \'gluon.html.A\'>, \'ANY_OF\': <class \'gluon.validators.ANY_OF\'>, \'ASSIGNJS\': <function ASSIGNJS>, \'AppConfig\': <function AppConfig>, \'Auth\': <class \'gluon.tools.Auth\'>, \'B\': <class \'gluon.html.B\'>, \'BEAUTIFY\': <class \'gluon.html.BEAUTIFY\'>, \'BODY\': <class \'gluon.html.BODY\'>, \'BR\': <class \'gluon.html.BR\'>, \'BUTTON\': <class \'gluon.html.BUTTON\'>, ...}, layer=\'/Users/Alexander/Documents/UCSC Classes/Spring_2...y/applications/ravexchange/controllers/default.py\', scode=<code object <module> at 0x112891ab0, file "/Use...ions/ravexchange/controllers/default.py", line 8>)'
+p91
+sS'func'
+p92
+S'restricted'
+p93
+sa(dp94
+g69
+S'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/controllers/default.py'
+p95
+sg71
+(dp96
+sg77
+I128
+sg78
+(dp97
+I117
+S"    #           INPUT(_name='name', requires=IS_NOT_EMPTY()),"
+p98
+sI118
+S"    #           INPUT(_type='submit'))"
+p99
+sI119
+S'    # if form.process().accepted:'
+p100
+sI120
+S"    #     session.flash = 'form accepted'"
+p101
+sI121
+S"    #     redirect(URL('buy'))"
+p102
+sI122
+S'    # elif form.errors:'
+p103
+sI123
+S"    #     response.flash = 'form has errors'"
+p104
+sI124
+S'    # else:'
+p105
+sI125
+S"    #     response.flash = 'please fill the form'"
+p106
+sI126
+S'    # return dict(form=form)'
+p107
+ssg90
+S'()'
+p108
+sg92
+S'<module>'
+p109
+sa(dp110
+g69
+S'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/globals.py'
+p111
+sg71
+(dp112
+S'self'
+p113
+S'undefined'
+p114
+sS'f'
+S'<function sell>'
+p115
+ssg77
+I419
+sg78
+(dp116
+I416
+S'        self.menu = []             # used by the default view layout'
+p117
+sI417
+S'        self.files = []            # used by web2py_ajax.html'
+p118
+sI418
+S'        self._vars = None'
+p119
+sI419
+S'        self._caller = lambda f: f()'
+p120
+sI420
+S'        self._view_environment = None'
+p121
+sI421
+S'        self._custom_commit = None'
+p122
+sI422
+S'        self._custom_rollback = None'
+p123
+sI423
+S"        self.generic_patterns = ['*']"
+p124
+sI414
+S"        self.flash = ''            # used by the default view layout"
+p125
+sI415
+S'        self.meta = Storage()      # used by web2py_ajax.html'
+p126
+ssg90
+S'(f=<function sell>)'
+p127
+sg92
+S'<lambda>'
+p128
+sa(dp129
+g69
+S'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/controllers/default.py'
+p130
+sg71
+(dp131
+S'form.process'
+p132
+S'<bound method SQLFORM.process of <gluon.sqlhtml.SQLFORM object>>'
+p133
+sS').accepted'
+p134
+g114
+sS'form'
+p135
+S'<gluon.sqlhtml.SQLFORM object>'
+p136
+ssg77
+I109
+sg78
+(dp137
+I104
+S''
+sI105
+S''
+sI106
+S'def sell():'
+p138
+sI107
+S'    # Function to add a listing'
+p139
+sI108
+S'    form = SQLFORM(db.listing)'
+p140
+sI109
+S'    if form.process().accepted:'
+p141
+sI110
+S'        session.flash = T("Listing added.")'
+p142
+sI111
+S"        redirect(URL('default', 'buy'))"
+p143
+sI112
+S'    elif form.errors:'
+p144
+sI113
+S"        session.flash = T('Please correct the info')"
+p145
+ssg90
+S'()'
+p146
+sg92
+S'sell'
+p147
+sa(dp148
+g69
+S'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/html.py'
+p149
+sg71
+(dp150
+S'self'
+p151
+S'<gluon.sqlhtml.SQLFORM object>'
+p152
+sS'self.validate'
+p153
+S'<bound method SQLFORM.validate of <gluon.sqlhtml.SQLFORM object>>'
+p154
+sS'kwargs'
+p155
+S"{'dbio': True}"
+p156
+ssg77
+I2300
+sg78
+(dp157
+I2304
+S''
+sI2295
+S'                return dict(form=SQLFORM(db.table).process(onsuccess=my_callback)'
+p158
+sI2296
+S''
+sI2297
+S''
+sI2298
+S'        """'
+p159
+sI2299
+S"        kwargs['dbio'] = kwargs.get('dbio', True)  # necessary for SQLHTML forms"
+p160
+sI2300
+S'        self.validate(**kwargs)'
+p161
+sI2301
+S'        return self'
+p162
+sI2302
+S''
+sI2303
+S'    REDIRECT_JS = "window.location=\'%s\';return false"'
+p163
+ssg90
+S"(self=<gluon.sqlhtml.SQLFORM object>, **kwargs={'dbio': True})"
+p164
+sg92
+S'process'
+p165
+sa(dp166
+g69
+S'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/html.py'
+p167
+sg71
+(dp168
+S'self'
+p169
+S'<gluon.sqlhtml.SQLFORM object>'
+p170
+sS'self.accepts'
+p171
+S'<bound method SQLFORM.accepts of <gluon.sqlhtml.SQLFORM object>>'
+p172
+sS'kwargs'
+p173
+S"{'dbio': True, 'request_vars': <Storage {'user_id': '', 'name': '', 'title': 'K...3efe-4deb-a7ea-aadb13262b9f', 'date_posted': ''}>, 'session': <Storage {'flash': None, '_formkey[listing/creat...24449', '14b546bd-ef4e-4b53-b4f5-a45be44217b3']}>}"
+p174
+ssg77
+I2238
+sg78
+(dp175
+I2240
+S'                if next:'
+p176
+sI2241
+S'                    current.session.flash = message_onsuccess'
+p177
+sI2242
+S'                else:'
+p178
+sI2233
+S"        for key in ('message_onsuccess', 'message_onfailure', 'onsuccess',"
+p179
+sI2234
+S"                    'onfailure', 'next', 'message_onchange', 'onchange'):"
+p180
+sI2235
+S'            if key in kwargs:'
+p181
+sI2236
+S'                del kwargs[key]'
+p182
+sI2237
+S''
+sI2238
+S'        if self.accepts(**kwargs):'
+p183
+sI2239
+S"            if onsuccess == 'flash':"
+p184
+ssg90
+S"(self=<gluon.sqlhtml.SQLFORM object>, **kwargs={'dbio': True, 'request_vars': <Storage {'user_id': '', 'name': '', 'title': 'K...3efe-4deb-a7ea-aadb13262b9f', 'date_posted': ''}>, 'session': <Storage {'flash': None, '_formkey[listing/creat...24449', '14b546bd-ef4e-4b53-b4f5-a45be44217b3']}>})"
+p185
+sg92
+S'validate'
+p186
+sa(dp187
+g69
+S'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/sqlhtml.py'
+p188
+sg71
+(dp189
+S'builtinopen'
+p190
+S'<built-in function open>'
+p191
+sS'source_file'
+p192
+g114
+sS'f'
+S"'/Users/Alexander/Documents/UCSC Classes/Spring_2...plications/ravexchange/static/images/No_image.png'"
+p193
+ssg77
+I1868
+sg78
+(dp194
+I1863
+S'                        continue'
+p195
+sI1864
+S'                    else:'
+p196
+sI1865
+S'                        f = os.path.join('
+p197
+sI1866
+S'                            current.request.folder,'
+p198
+sI1867
+S'                            os.path.normpath(f))'
+p199
+sI1868
+S"                        source_file = open(f, 'rb')"
+p200
+sI1869
+S'                        original_filename = os.path.split(f)[1]'
+p201
+sI1870
+S"                elif hasattr(f, 'file'):"
+p202
+sI1871
+S'                    (source_file, original_filename) = (f.file, f.filename)'
+p203
+sI1872
+S'                elif isinstance(f, (str, unicodeT)):'
+p204
+ssg90
+S"(self=<gluon.sqlhtml.SQLFORM object>, request_vars=<Storage {'user_id': '', 'name': '', 'title': 'K...3efe-4deb-a7ea-aadb13262b9f', 'date_posted': ''}>, session=<Storage {'flash': None, '_formkey[listing/creat...24449', '14b546bd-ef4e-4b53-b4f5-a45be44217b3']}>, formname='listing/create', keepvalues=False, onvalidation=None, dbio=True, hideerror=False, detect_record_change=False, **kwargs={})"
+p205
+sg92
+S'accepts'
+p206
+sasS'pyver'
+p207
+S'Python 2.7.10: /usr/bin/python (prefix: /System/Library/Frameworks/Python.framework/Versions/2.7)'
+p208
+sS'session'
+p209
+g64
+(S's\x9c\x00\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr></table></div>'
+tRp210
+sS'etype'
+p211
+S"<type 'exceptions.IOError'>"
+p212
+sS'date'
+p213
+S'Sun May 20 18:08:38 2018'
+p214
+sS'response'
+p215
+g64
+(S's\xec\x1f\x00\x00<div><table><tr><td style="font-weight:bold;vertical-align:top;">body</td><td style="vertical-align:top;">:</td><td><div>&lt;cStringIO.StringO object at 0x1127ea880&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">cookies</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">session_id_ravexchange</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-8e5cd71f-4bbb-43fc-849f-867673825803<table><tr><td style="font-weight:bold;vertical-align:top;">comment</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">domain</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">expires</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">httponly</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">max-age</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">path</td><td style="vertical-align:top;">:</td><td><div>/</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">secure</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">version</td><td style="vertical-align:top;">:</td><td><div></div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">delimiters</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>{{</div></td></tr><tr><td><div>}}</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">files</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">flash</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">form_label_separator</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">formstyle</td><td style="vertical-align:top;">:</td><td><div>bootstrap4_inline</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generic_patterns</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>*</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">google_analytics_id</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">headers</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">X-Powered-By</td><td style="vertical-align:top;">:</td><td><div>web2py</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">logo</td><td style="vertical-align:top;">:</td><td><div><a href="/ravexchange/default/index"><img alt="My Logo" src="https://i.imgur.com/A2LRvVK.png" style="margin:20px 10px" /></a></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">menu</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div><table><tr><td><div>Home</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/ravexchange/default/</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Events</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/ravexchange/default/events</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Buy</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/ravexchange/default/buy</div></td></tr></table></div></td></tr><tr><td><div><table><tr><td><div>Sell</div></td></tr><tr><td><div>False</div></td></tr><tr><td><div>/ravexchange/default/sell</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">meta</td><td style="vertical-align:top;">:</td><td><div><table><tr><td style="font-weight:bold;vertical-align:top;">author</td><td style="vertical-align:top;">:</td><td><div>Your Name &lt;you@example.com&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">description</td><td style="vertical-align:top;">:</td><td><div>a cool new app</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">generator</td><td style="vertical-align:top;">:</td><td><div>Web2py Web Framework</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">keywords</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>web2py</div></td></tr><tr><td><div>python</div></td></tr><tr><td><div>framework</div></td></tr></table></div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">models_to_run</td><td style="vertical-align:top;">:</td><td><div><table><tr><td><div>^\\w+\\.py$</div></td></tr><tr><td><div>^default/\\w+\\.py$</div></td></tr><tr><td><div>^default/sell/\\w+\\.py$</div></td></tr></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">postprocessing</td><td style="vertical-align:top;">:</td><td><div><table></table></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_client</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_compression_level</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_cookie_expires</td><td style="vertical-align:top;">:</td><td><div>None</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_data_name</td><td style="vertical-align:top;">:</td><td><div>session_data_ravexchange</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_file</td><td style="vertical-align:top;">:</td><td><div>&lt;open file &#x27;/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/sessions/176/1c0/127.0.0.1-8e5cd71f-4bbb-43fc-849f-867673825803&#x27;, mode &#x27;rb+&#x27; at 0x1122d0f60&gt;</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_filename</td><td style="vertical-align:top;">:</td><td><div>/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/sessions/127.0.0.1-8e5cd71f-4bbb-43fc-849f-867673825803</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_hash</td><td style="vertical-align:top;">:</td><td><div>02b7aa724552ab3fe9ed34aaf2858ac9</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id</td><td style="vertical-align:top;">:</td><td><div>127.0.0.1-8e5cd71f-4bbb-43fc-849f-867673825803</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_id_name</td><td style="vertical-align:top;">:</td><td><div>session_id_ravexchange</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_locked</td><td style="vertical-align:top;">:</td><td><div>True</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_masterapp</td><td style="vertical-align:top;">:</td><td><div>ravexchange</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_new</td><td style="vertical-align:top;">:</td><td><div>False</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">session_storage_type</td><td style="vertical-align:top;">:</td><td><div>file</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">status</td><td style="vertical-align:top;">:</td><td><div>200</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">subtitle</td><td style="vertical-align:top;">:</td><td><div></div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">title</td><td style="vertical-align:top;">:</td><td><div>Ravexchange</div></td></tr><tr><td style="font-weight:bold;vertical-align:top;">view</td><td style="vertical-align:top;">:</td><td><div>default/sell.html</div></td></tr></table></div>'
+tRp216
+sS'locals'
+p217
+(dp218
+g209
+S"<Storage {'flash': None, '_formkey[listing/creat...24449', '14b546bd-ef4e-4b53-b4f5-a45be44217b3']}>"
+p219
+sS'hideerror'
+p220
+S'False'
+p221
+sS'dbio'
+p222
+S'True'
+p223
+sS'request_vars'
+p224
+S"<Storage {'user_id': '', 'name': '', 'title': 'K...3efe-4deb-a7ea-aadb13262b9f', 'date_posted': ''}>"
+p225
+sS'self'
+p226
+S'<gluon.sqlhtml.SQLFORM object>'
+p227
+sS'ret'
+p228
+g223
+sS'field'
+p229
+S'<pydal.objects.Field object>'
+p230
+sS'onvalidation'
+p231
+S'None'
+p232
+sS'kwargs'
+p233
+g19
+sS'record_id'
+p234
+S'None'
+p235
+sS'keepvalues'
+p236
+g221
+sS'delete_exception'
+p237
+S'None'
+p238
+sS'fd'
+p239
+S"'image__delete'"
+p240
+sS'formname_id'
+p241
+S"'create'"
+p242
+sS'formname'
+p243
+S"'listing/create'"
+p244
+sS'f'
+S"'/Users/Alexander/Documents/UCSC Classes/Spring_2...plications/ravexchange/static/images/No_image.png'"
+p245
+sS'fields'
+p246
+S"{'image': 'static/images/No_image.png', 'price': Decimal('50'), 'title': 'Kaskade'}"
+p247
+sS'detect_record_change'
+p248
+g221
+sS'value'
+p249
+S"Decimal('50')"
+p250
+sS'keyed'
+p251
+g221
+sS'item'
+p252
+S'<gluon.validators.IS_EMPTY_OR object>'
+p253
+sS'fieldname'
+p254
+S"'image'"
+p255
+sS'requires'
+p256
+S'[<gluon.validators.IS_EMPTY_OR object>]'
+p257
+sssS'traceback'
+p258
+S'Traceback (most recent call last):\n  File "/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/restricted.py", line 219, in restricted\n    exec(ccode, environment)\n  File "/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/controllers/default.py", line 128, in <module>\n  File "/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/globals.py", line 419, in <lambda>\n    self._caller = lambda f: f()\n  File "/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/controllers/default.py", line 109, in sell\n    if form.process().accepted:\n  File "/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/html.py", line 2300, in process\n    self.validate(**kwargs)\n  File "/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/html.py", line 2238, in validate\n    if self.accepts(**kwargs):\n  File "/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/gluon/sqlhtml.py", line 1868, in accepts\n    source_file = open(f, \'rb\')\nIOError: [Errno 2] No such file or directory: \'/Users/Alexander/Documents/UCSC Classes/Spring_2018/CMPS 183/Project/ravexchange2.0/web2py/applications/ravexchange/static/images/No_image.png\'\n'
+p259
+s.
