@@ -26,7 +26,7 @@ def grid():
 # ---- Embedded wiki (example) ----
 def wiki():
     auth.wikimenu() # add the wiki to the menu
-    return auth.wiki() 
+    return auth.wiki()
 
 # ---- Action for login/register/etc (required for auth) -----
 def user():
@@ -94,7 +94,9 @@ def events():
     return dict(message=T('Welcome to ravExchange!'))
 
 def buy():
-    return dict(message=T('Welcome to ravExchange!'))
+    #listing = db(db.listing.title=='ghastly').select()
+    listing = db().select(db.listing.ALL)
+    return dict(message=T('Welcome to ravExchange!'), listing=listing)
 
 # def sell():
 #     return dict(message=T('Welcome to ravExchange!'))
@@ -104,11 +106,12 @@ def buy():
 def sell():
     # Function to add a listing
     form = SQLFORM(db.listing)
-    if form.accepted:
-        session.flash = T("Checklist added.")
+    if form.process().accepted:
+        session.flash = T("Listing added.")
         redirect(URL('default', 'buy'))
     elif form.errors:
         session.flash = T('Please correct the info')
+        redirect(URL('default', 'buy'))
     return dict(form=form)
     # form = FORM('Your name:',
     #           INPUT(_name='name', requires=IS_NOT_EMPTY()),
@@ -121,6 +124,3 @@ def sell():
     # else:
     #     response.flash = 'please fill the form'
     # return dict(form=form)
-
-def buy():
-    return dict()

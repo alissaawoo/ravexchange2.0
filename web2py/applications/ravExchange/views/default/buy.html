@@ -1,1 +1,14 @@
 {{extend 'layout.html'}}
+
+<div class="main_content">
+
+  <h1>Here are tickets currently on sale</h1>
+  {{for l in listing:}}
+  <div class="listings">
+      <div class="listings_text">
+        <div class="listings_title">{{=l.title}} {{=l.price}}</div>
+      </div>
+  </div>
+  {{pass}}
+
+</div>
